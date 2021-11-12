@@ -11,4 +11,4 @@ Ruby Functions do the analysis of logs and generate reports
    ```
 ### Test
 - Ruby
-   - Run the test (`log_reports_controller_test.rb`)
+   - Run the test (`ruby log_reports_controller_test.rb`)
